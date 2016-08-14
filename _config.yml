@@ -1,0 +1,14 @@
+layout_spectrum: 0.41683265031315386
+typography_spectrum: 0.5967447627335787
+color:
+  brandStrength: 0.3499085707589984
+  lightness: 0.8484153617173433
+  saturation: 0.8191299941390753
+  rhythmicContrast: 0.008739756187424064
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: favo
