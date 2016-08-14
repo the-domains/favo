@@ -6,9 +6,9 @@ color:
   saturation: 0.8191299941390753
   rhythmicContrast: 0.008739756187424064
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: favo
