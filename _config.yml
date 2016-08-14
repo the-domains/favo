@@ -1,16 +1,16 @@
-typography_spectrum: 0.5967447627335787
+typography_spectrum: 0.5177890833001584
 color:
-  brandStrength: 0.3499085707589984
-  lightness: 0.8484153617173433
-  saturation: 0.8191299941390753
-  rhythmicContrast: 0.008739756187424064
+  brandStrength: 0.6777637752238661
+  lightness: 0.9683431892190129
+  saturation: 0.3208191895391792
+  rhythmicContrast: 0.5796173319686204
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.41683265031315386
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.6093923186417669
 name: favo
 title: favo's lil world
 description: my notebook on all thing techy
